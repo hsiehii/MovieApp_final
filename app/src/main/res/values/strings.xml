@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp_final</string>
+    <string name="addmovie">Add a movie to your list!</string>
+    <string name="addmoviebutton">Add Movie</string>
+    <string name="test">Input the fields below:</string>
+    <string name="title">Movie Title</string>
+    <string name="desc">Movie Description</string>
+    <string name="link">Movie Web Link</string>
+
+</resources>
